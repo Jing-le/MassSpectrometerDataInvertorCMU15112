@@ -15,8 +15,5 @@ files in the data input section on the bottom right. Files must be inputted
 exactly or program won't run. They also need to be the corresponding ones with
 each other.
 
-Libraries: None
-
-Shortcuts:
-    Program doesn't have any shortcuts because it doesn't need any. I have
-included a instruction tab on the graphing page so you know what features it has
+Note:
+    Currently changing the graphing from tkinter graph drawing to matplotlib
